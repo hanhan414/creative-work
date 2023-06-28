@@ -17,4 +17,4 @@ Assemble sections:
 ![image](https://github.com/hanhan414/creative-work/blob/main/making%20photos/assemble.jpg)  
 
 Finished:  
-![image](
+![image](https://github.com/hanhan414/creative-work/blob/main/making%20photos/finished.png)  
