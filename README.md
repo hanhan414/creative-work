@@ -7,4 +7,8 @@ Mode 2: Blue&Green
 Mode 3: Orange&Purple  
 Mode 4:Yellow&Red  
 
-![image](https://github.com/hanhan414/creative-work/blob/main/making%20photos/assemble.jpg)
+3d print model:  
+![image](https://github.com/hanhan414/creative-work/blob/main/making%20photos/3D%20print%20model.jpg)  
+  
+Assemble sections:  
+![image](https://github.com/hanhan414/creative-work/blob/main/making%20photos/assemble.jpg)  
